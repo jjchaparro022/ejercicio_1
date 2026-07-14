@@ -1,0 +1,3 @@
+git config --global user.name "Tu Nombre": Configura el nombre de usuario que se asociará a tus confirmaciones (commits).
+git config --global user.email "tu@email.com": Configura tu dirección de correo electrónico.
+git --version: Verifica la versión de Git que tienes instalada.
