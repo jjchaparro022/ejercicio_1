@@ -2,3 +2,7 @@ git config --global user.name "Tu Nombre": Configura el nombre de usuario que se
 git config --global user.email "tu@email.com": Configura tu dirección de correo electrónico.
 git --version: Verifica la versión de Git que tienes instalada.
 Esta es una linea nueva que contiene una edicion
+
+
+
+¡Hola! El archivo se ve genial, gracias por el aporte.
